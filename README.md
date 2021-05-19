@@ -2,3 +2,4 @@
 Simple linear regression task as it involves just 2 variables.
 Prediction using supervised ML.
 Easily understandable code.
+#Data can be found at http://bit.ly/w-data
